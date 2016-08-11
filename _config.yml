@@ -1,0 +1,14 @@
+layout_spectrum: 0.5443418654613197
+typography_spectrum: 0.2982175927609205
+color:
+  brandStrength: 0.7411012926604599
+  lightness: 0.9143218700774014
+  saturation: 0.15260898554697633
+  rhythmicContrast: 0.6863303845748305
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Makesensers
